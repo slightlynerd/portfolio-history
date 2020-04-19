@@ -72,6 +72,8 @@ A portfolio website showcasing my skills and works
 
 ![Screenshot of version 2](images/v6.png)
 
+Portfolio website with blog, contact form, experience and projects worked on
+
 **Last updated**: 26 October, 2019
 
 **Stacks**: HTML5, CSS, JavaScript, Node/express, Firebase
@@ -81,6 +83,8 @@ A portfolio website showcasing my skills and works
 ## Current version
 
 ![Screenshot of version 2](images/v7.png)
+
+Builds on the previous version with new sections and theming
 
 **Stacks**: HTML5, CSS, JavaScript, Node/express, Firebase, Disqus
 
